@@ -44,12 +44,12 @@ app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/robycinix/php_mvc_framework.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd yourrepository
+   cd php_mvc_framework
    ```
 
 3. Install dependencies using Composer:
@@ -151,4 +151,6 @@ This project is licensed under the MIT License.
 ---
 
 > Feel free to contribute and improve this framework! Created by Roby.
+
+[GitHub Repository](https://github.com/robycinix/php_mvc_framework)
 
