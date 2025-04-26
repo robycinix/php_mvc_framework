@@ -1,0 +1,16 @@
+{
+  "name": "tuo-username/mio-framework",
+  "description": "Semplice framework PHP custom",
+  "type": "project",
+  "require": {
+    "php": ">=7.4",
+    "vlucas/phpdotenv": "^5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Core\\": "core/",
+      "App\\": "app/",
+      "Src\\": "src/"
+    }
+  }
+}
