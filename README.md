@@ -146,11 +146,10 @@ class User extends Model
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
 
 ---
 
 > Feel free to contribute and improve this framework! Created by Roby.
 
 [GitHub Repository](https://github.com/robycinix/php_mvc_framework)
-
